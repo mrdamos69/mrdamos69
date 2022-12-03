@@ -12,7 +12,7 @@
 </div>
 
 <p align="left">
-  <a href="https://t.me/mrdamos69"> alt="Telegram" target="_blank">
+  <a href="https://t.me/mrdamos69" alt="Telegram" target="_blank">
   <img src="(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

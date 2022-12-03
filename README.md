@@ -10,16 +10,4 @@
 
 ---
 
-<p align="left">
-⭐🚀 GitHub Estatísticas
-</p>  
-<div align="center">
-<a href="https://github.com/PriscilaButzke/mrdamos69">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdamos69&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/PriscilaButzke/PriscilaButzke">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdamos69&show_icons=true&theme=dracula"
-</a>
-</div>  
-
 ![Snake animation](https://github.com/mrdamos69/mrdamos69/blob/output/github-contribution-grid-snake.svg)

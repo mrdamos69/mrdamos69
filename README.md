@@ -7,3 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrdamos69&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrdamos69&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrdamos69&theme=solarized_dark)
+
+---
+
+![Snake animation](https://github.com/PriscilaButzke/PriscilaButzke/blob/output/github-contribution-grid-snake.svg)

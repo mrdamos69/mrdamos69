@@ -10,13 +10,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdamos69&show_icons=true&theme=dracula"
 </a>
 </div>
+____
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrdamos69)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/)
 <p align="left">
-  <a href="https://t.me/mrdamos69" alt="Telegram" target="_blank">
-  <img src="(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+
   <a href="https://www.instagram.com/mrdamos69/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   

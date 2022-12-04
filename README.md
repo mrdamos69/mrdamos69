@@ -20,4 +20,4 @@ ___
 ___
   
 
-![Snake animation](https://github.com/mrdamos69/mrdamos69/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mrdamos69/mrdamos69/blob/1a85371c809651dbd9ae47efdaeaf943b880f40a/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-# Hi there, I'm Dmitrii Chichkanov 👋
+# Hi there, I'm Dmitrii Chichkanov <img src="https://github.com/mrdamos69/mrdamos69/blob/main/assets/hey.gif?raw=true" height="35px" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ___

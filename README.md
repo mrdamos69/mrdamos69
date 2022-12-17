@@ -23,6 +23,7 @@ ___
 ## ⚡ Project List:
 | Name | Description | Tools |
 | --- | --- | --- |
+| [3D_Viewer_v2.0](https://github.com/mrdamos69/3D_Viewer_v2.0)| Program to visualise the 3D wireframe models. GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, OpenGL, MVC , GTest, Makefile |
 | [SmartCalc_v2.0](https://github.com/mrdamos69/SmartCalc_v2.0)| Implementation of the calculation of arbitrary bracket arithmetic expressions in infix notation and a GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, MVC , GTest, Makefile |
 | [Containers](https://github.com/mrdamos69/Containers) | Implementation of the Standard Template Library (STL) classes. List of classes: list, map, queue, set, multiset, stack, vector, arrey. | CPP, GTest, Makefile |
 | [MatrixPlus](https://github.com/mrdamos69/MatrixPlus) | Library implementation for basic operations with matrices: comparison, addition, subtraction, multiplication of matrices, multiplication of matrices by a number , transposition, calculation of the determinant, calculation of the matrix of algebraic additions, finding the inverse matrix. | CPP, GTest, Makefile |

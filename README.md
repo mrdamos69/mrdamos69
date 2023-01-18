@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 ___
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/mrdamos69/mrdamos69">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdamos69&theme=dracula&hide_langs_below=1" />
 </a>
@@ -11,7 +11,7 @@ ___
 </a>
 </div>
 
-___
+___ -->
 ## 📱 Contact:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrdamos69)

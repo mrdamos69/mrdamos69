@@ -23,6 +23,7 @@ ___
 ## ⚡ Project List:
 | Name | Description | Tools |
 | --- | --- | --- |
+| [MonitoringSystem](https://github.com/mrdamos69/MonitoringSystem)| Tracking the status of specific metrics of your operating system. | 	CPP, Qt, MacOS/Linux, MVC, GTest, Makefile |
 | [3D_Viewer_v2.0](https://github.com/mrdamos69/3D_Viewer_v2.0)| Program to visualise the 3D wireframe models. GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, OpenGL, MVC , GTest, Makefile |
 | [SmartCalc_v2.0](https://github.com/mrdamos69/SmartCalc_v2.0)| Implementation of the calculation of arbitrary bracket arithmetic expressions in infix notation and a GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, MVC , GTest, Makefile |
 | [Containers](https://github.com/mrdamos69/Containers) | Implementation of the Standard Template Library (STL) classes. List of classes: list, map, queue, set, multiset, stack, vector, arrey. | CPP, GTest, Makefile |

@@ -35,7 +35,7 @@ ___
 ## ⚡⚡ Flutter Project List:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [✅toDoList](https://github.com/mrdamos69/todolist)| The Flutter and Dart-based To-Do List app helps users organize tasks, set deadlines, and boost productivity by providing a user-friendly interface for creating, managing, and tracking their to-do items. | 	Flutter, Dart, Android/iOS/MacOS/Linux/Windiws |
+| [✅toDoList](https://github.com/mrdamos69/todolist)| The Flutter and Dart-based To-Do List app helps users organize tasks, set deadlines, and boost productivity by providing a user-friendly interface for creating, managing, and tracking their to-do items. | 	Flutter, Dart, Android/iOS/MacOS/Linux/Windows |
 
 ___
 

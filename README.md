@@ -20,16 +20,23 @@ ___ -->
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitry.chichkanov.5)
 ___
 
-## ⚡ Project List:
+## ⚡ C/C++ Project List:
 | Name | Description | Tools |
 | --- | --- | --- |
-| [MonitoringSystem](https://github.com/mrdamos69/MonitoringSystem)| Tracking the status of specific metrics of your operating system. | 	CPP, Qt, MacOS/Linux, MVC, GTest, Makefile |
-| [3D_Viewer_v2.0](https://github.com/mrdamos69/3D_Viewer_v2.0)| Program to visualise the 3D wireframe models. GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, OpenGL, MVC , GTest, Makefile |
-| [SmartCalc_v2.0](https://github.com/mrdamos69/SmartCalc_v2.0)| Implementation of the calculation of arbitrary bracket arithmetic expressions in infix notation and a GUI based on a GUI library with API for C++17: Qt.  | 	CPP, Qt, MVC , GTest, Makefile |
-| [Containers](https://github.com/mrdamos69/Containers) | Implementation of the Standard Template Library (STL) classes. List of classes: list, map, queue, set, multiset, stack, vector, arrey. | CPP, GTest, Makefile |
-| [MatrixPlus](https://github.com/mrdamos69/MatrixPlus) | Library implementation for basic operations with matrices: comparison, addition, subtraction, multiplication of matrices, multiplication of matrices by a number , transposition, calculation of the determinant, calculation of the matrix of algebraic additions, finding the inverse matrix. | CPP, GTest, Makefile |
-| [SimpleBashUtils](https://github.com/mrdamos69/SimpleBashUtils) | Development of Bash text utilities: cat, grep. | C, Regex, Makefile |
+| [🖥️MonitoringSystem](https://github.com/mrdamos69/MonitoringSystem)| Track OS metrics. | 	CPP, Qt, MacOS/Linux, MVC, GTest, Makefile |
+| [🔍3D_Viewer_v2.0](https://github.com/mrdamos69/3D_Viewer_v2.0)| Visualize 3D wireframe models. | 	CPP, Qt, OpenGL, MVC , GTest, Makefile |
+| [🧮SmartCalc_v2.0](https://github.com/mrdamos69/SmartCalc_v2.0)| Calculate arithmetic expressions with a GUI.  | 	CPP, Qt, MVC , GTest, Makefile |
+| [📦Containers](https://github.com/mrdamos69/Containers) | STL class implementations. | CPP, GTest, Makefile |
+| [🧮MatrixPlus](https://github.com/mrdamos69/MatrixPlus) | Matrix operations library. | CPP, GTest, Makefile |
+| [🛠️SimpleBashUtils](https://github.com/mrdamos69/SimpleBashUtils) | Development of Bash text utilities: cat, grep. | C, Regex, Makefile |
 | | |
 ___
 
-![Snake animation](https://github.com/mrdamos69/mrdamos69/blob/output/github-contribution-grid-snake.svg)
+## ⚡⚡ Flutter Project List:
+| Name | Description | Tools |
+| --- | --- | --- |
+| [✅toDoList](https://github.com/mrdamos69/todolist)| The Flutter and Dart-based To-Do List app helps users organize tasks, set deadlines, and boost productivity by providing a user-friendly interface for creating, managing, and tracking their to-do items. | 	Flutter, Dart, Android/iOS/MacOS/Linux/Windiws |
+
+___
+
+## Feel free to explore my projects! 🤓

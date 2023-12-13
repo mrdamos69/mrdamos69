@@ -36,7 +36,14 @@ ___
 | Name | Description | Tools |
 | --- | --- | --- |
 | [✅toDoList](https://github.com/mrdamos69/todolist)| The Flutter and Dart-based To-Do List app helps users organize tasks, set deadlines, and boost productivity by providing a user-friendly interface for creating, managing, and tracking their to-do items. | 	Flutter, Dart, Android/iOS/MacOS/Linux/Windows |
+| | |
 
 ___
+
+##  📖 LeetCode Solutions:
+| Name | Description | Tools |
+| --- | --- | --- |
+| [📚MyLeetCode](https://github.com/mrdamos69/MyLeetCode)| I also enjoy solving problems on LeetCode, enhancing my algorithmic and coding skills. Below is a table summarizing some of my solutions in C++. | C++ Solution |
+| | |
 
 ## Feel free to explore my projects! 🤓

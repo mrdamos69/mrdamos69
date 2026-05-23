@@ -1,46 +1,109 @@
-# Hi there, I'm Dmitrii Chichkanov <img src="https://github.com/mrdamos69/mrdamos69/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">
+<h1 align="center">
+  Hi there, I'm Dmitrii Chichkanov
+  <img src="https://github.com/mrdamos69/mrdamos69/blob/main/.github/assets/hey.gif?raw=true" height="35px" width="35px">
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile!;C%2B%2B+%2F+Qt+Developer;Flutter+%26+Dart+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- <div align="center">
-<a href="https://github.com/mrdamos69/mrdamos69">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdamos69&theme=dracula&hide_langs_below=1" />
-</a>
-<a href="https://github.com/mrdamos69/mrdamos69">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdamos69&show_icons=true&theme=dracula"
-</a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrdamos69&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mrdamos69?label=Followers&style=flat&color=36BCF7" alt="Followers" />
+</p>
 
-___ -->
-## 📱 Contact:
+---
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mrdamos69)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/)
-[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrdamos69/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dmitry.chichkanov.5)
-___
+## 👨‍💻 About Me
 
-## ⚡ C/C++ Project List:
-| Name | Description | Tools |
-| --- | --- | --- |
-| [🖥️MonitoringSystem](https://github.com/mrdamos69/MonitoringSystem)| Track OS metrics. | 	CPP, Qt, MacOS/Linux, MVC, GTest, Makefile |
-| [🔍3D_Viewer_v2.0](https://github.com/mrdamos69/3D_Viewer_v2.0)| Visualize 3D wireframe models. | 	CPP, Qt, OpenGL, MVC , GTest, Makefile |
-| [🧮SmartCalc_v2.0](https://github.com/mrdamos69/SmartCalc_v2.0)| Calculate arithmetic expressions with a GUI.  | 	CPP, Qt, MVC , GTest, Makefile |
-| [📦Containers](https://github.com/mrdamos69/Containers) | STL class implementations. | CPP, GTest, Makefile |
-| [🧮MatrixPlus](https://github.com/mrdamos69/MatrixPlus) | Matrix operations library. | CPP, GTest, Makefile |
-| [🛠️SimpleBashUtils](https://github.com/mrdamos69/SimpleBashUtils) | Development of Bash text utilities: cat, grep. | C, Regex, Makefile |
-___
+- 🎓 Software engineer with a focus on **C/C++**, **Qt** and **cross‑platform development**
+- 🛠️ Building desktop and mobile apps with clean architecture (MVC) and tests (GTest)
+- 📱 Exploring **Flutter / Dart** for multi‑platform mobile apps
+- 🧠 Practicing algorithms daily on **LeetCode**
+- 📫 Reach me on Telegram: **@mrdamos69**
 
-## ⚡⚡ Flutter Project List:
-| Name | Description | Tools |
-| --- | --- | --- |
-| [✅toDoList](https://github.com/mrdamos69/todolist)| The Flutter and Dart-based To-Do List app helps users organize tasks, set deadlines, and boost productivity by providing a user-friendly interface for creating, managing, and tracking their to-do items. | 	Flutter, Dart, Android/iOS/MacOS/Linux/Windows |
+---
 
-___
+## 🧰 Tech Stack
 
-##  📖 LeetCode Solutions:
-| Name | Description | Tools |
-| --- | --- | --- |
-| [📚MyLeetCode](https://github.com/mrdamos69/MyLeetCode)| I also enjoy solving problems on LeetCode, enhancing my algorithmic and coding skills. | C++ Solution |
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-## Feel free to explore my projects! 🤓
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrdamos69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdamos69&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrdamos69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📂 Projects
+
+### ⚙️ C / C++
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [🖥️ **MonitoringSystem**](https://github.com/mrdamos69/MonitoringSystem) | Track OS metrics in real time. | C++ · Qt · MVC · GTest · Make |
+| [🔍 **3D_Viewer_v2.0**](https://github.com/mrdamos69/3D_Viewer_v2.0) | Visualize 3D wireframe models. | C++ · Qt · OpenGL · MVC · GTest · Make |
+| [🧮 **SmartCalc_v2.0**](https://github.com/mrdamos69/SmartCalc_v2.0) | Calculate arithmetic expressions with a GUI. | C++ · Qt · MVC · GTest · Make |
+| [📦 **Containers**](https://github.com/mrdamos69/Containers) | Custom STL‑like container implementations. | C++ · GTest · Make |
+| [🧮 **MatrixPlus**](https://github.com/mrdamos69/MatrixPlus) | Matrix operations library. | C++ · GTest · Make |
+| [🛠️ **SimpleBashUtils**](https://github.com/mrdamos69/SimpleBashUtils) | Bash text utilities like `cat` and `grep`. | C · Regex · Make |
+
+### 📱 Flutter
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [✅ **toDoList**](https://github.com/mrdamos69/todolist) | Cross‑platform To‑Do app — organize tasks, set deadlines, boost productivity. | Flutter · Dart · Android / iOS / macOS / Linux / Windows |
+
+### 📖 Algorithms
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [📚 **MyLeetCode**](https://github.com/mrdamos69/MyLeetCode) | My LeetCode solutions — sharpening algorithmic and coding skills. | C++ |
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://t.me/mrdamos69">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mrdamos69/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/dmitry.chichkanov.5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Feel free to explore my projects! 🤓</i>
+</p>

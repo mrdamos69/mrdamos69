@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile!;C%2B%2B+%2F+Qt+Developer;Flutter+%26+Dart+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=560&lines=AI+Integration+Engineer;LLM+Agents+%C2%B7+Python+%C2%B7+TypeScript;Full-Stack+%2B+strong+C%2B%2B+foundation;Los+Angeles+%2F+Remote" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,29 +18,45 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software engineer with a focus on **C/C++**, **Qt** and **cross‑platform development**
-- 🛠️ Building desktop and mobile apps with clean architecture (MVC) and tests (GTest)
-- 📱 Exploring **Flutter / Dart** for multi‑platform mobile apps
-- 🧠 Practicing algorithms daily on **LeetCode**
-- 📫 Reach me on Telegram: **@mrdamos69**
+- 🤖 I build **AI systems businesses actually rely on** — LLM agents, chatbots, and automations
+- 💼 3+ years shipping software for international clients as a freelance engineer on **Upwork**
+- 🚀 Latest: an **AI lead-management & estimating agent** (Python + OpenAI API) for a US home-services company
+- 🌐 Full-stack web apps and landing pages with **Next.js / TypeScript / React**
+- 🎓 Trained at **School 21** (École 42 curriculum) — deep fundamentals in modern **C++ (17/20)**, data structures, and multithreading
+- 📍 Los Angeles · open to **AI Integration / Forward Deployed / AI Solutions Engineer** roles
+- 📫 **dmitrii.chichkanov.93@gmail.com** · Telegram: **@mrdamos69**
 
 ---
 
 ## 🧰 Tech Stack
 
+**AI & Backend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**Full-Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+**Systems**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -55,22 +71,23 @@
 
 ## 📂 Projects
 
+### 🤖 AI & Web
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [🧠 **ai-lead-estimating-agent**](https://github.com/mrdamos69/ai-lead-estimating-agent) | LLM-powered agent that qualifies inbound leads and drafts job estimates for home-services businesses (demo). | Python · OpenAI API · tool calling |
+| [🏠 **home-hero-handyman**](https://github.com/mrdamos69/home-hero-handyman) | Business website with an AI-assisted customer workflow for an LA home-services company. | Next.js · TypeScript · React |
+
 ### ⚙️ C / C++
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [🖥️ **MonitoringSystem**](https://github.com/mrdamos69/MonitoringSystem) | Track OS metrics in real time. | C++ · Qt · MVC · GTest · Make |
-| [🔍 **3D_Viewer_v2.0**](https://github.com/mrdamos69/3D_Viewer_v2.0) | Visualize 3D wireframe models. | C++ · Qt · OpenGL · MVC · GTest · Make |
-| [🧮 **SmartCalc_v2.0**](https://github.com/mrdamos69/SmartCalc_v2.0) | Calculate arithmetic expressions with a GUI. | C++ · Qt · MVC · GTest · Make |
-| [📦 **Containers**](https://github.com/mrdamos69/Containers) | Custom STL‑like container implementations. | C++ · GTest · Make |
-| [🧮 **MatrixPlus**](https://github.com/mrdamos69/MatrixPlus) | Matrix operations library. | C++ · GTest · Make |
-| [🛠️ **SimpleBashUtils**](https://github.com/mrdamos69/SimpleBashUtils) | Bash text utilities like `cat` and `grep`. | C · Regex · Make |
-
-### 📱 Flutter
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [✅ **toDoList**](https://github.com/mrdamos69/todolist) | Cross‑platform To‑Do app — organize tasks, set deadlines, boost productivity. | Flutter · Dart · Android / iOS / macOS / Linux / Windows |
+| [🖥️ **MonitoringSystem**](https://github.com/mrdamos69/MonitoringSystem) | Track OS metrics in real time. | C++ · Qt · MVC · GTest |
+| [🔍 **3D_Viewer_v2.0**](https://github.com/mrdamos69/3D_Viewer_v2.0) | Visualize 3D wireframe models. | C++ · Qt · OpenGL · MVC |
+| [🧮 **SmartCalc_v2.0**](https://github.com/mrdamos69/SmartCalc_v2.0) | Calculate arithmetic expressions with a GUI. | C++ · Qt · MVC |
+| [📦 **Containers**](https://github.com/mrdamos69/Containers) | Custom STL-like container implementations. | C++ · GTest |
+| [🧮 **MatrixPlus**](https://github.com/mrdamos69/MatrixPlus) | Matrix operations library. | C++ · GTest |
+| [🛠️ **SimpleBashUtils**](https://github.com/mrdamos69/SimpleBashUtils) | Bash text utilities like `cat` and `grep`. | C · Regex |
 
 ### 📖 Algorithms
 
@@ -83,17 +100,14 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://t.me/mrdamos69">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="mailto:dmitrii.chichkanov.93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dmitrii-chichkanov-29a23a256/">
+  <a href="https://www.linkedin.com/in/dmitrii-chichkanov/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/mrdamos69/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/dmitry.chichkanov.5">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/mrdamos69">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 

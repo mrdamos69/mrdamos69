@@ -12,9 +12,9 @@ Freelance software engineer on Upwork since March 2023. School 21, 2022-2025. Ba
 
 ## Selected work
 
-**[Lead qualification and estimating agent](https://github.com/mrdamos69/ai-lead-estimating-agent)**
+**[Interactive service-workflow lab](https://github.com/mrdamos69/ai-lead-estimating-agent)**
 
-A public Python demo using synthetic data: lead qualification, Pydantic validation, OpenAI tool calling and deterministic pricing. Produces drafts for human review, not automatic customer messages.
+A runnable Python lab with a browser interface: structured lead intake, deterministic prices, revision-bound approval, duplicate-event handling and a SQLite-backed simulated outbox. Includes an inspectable event trace, offline scenarios and opt-in OpenAI / Anthropic extraction adapters. All data is synthetic; no real customer messages are sent. The repository also retains a smaller OpenAI tool-calling CLI example.
 
 **[Service request web application](https://github.com/mrdamos69/home-hero-handyman)**
 

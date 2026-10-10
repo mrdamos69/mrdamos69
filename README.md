@@ -40,9 +40,25 @@ These repositories show selected examples, not the full scope of my work. Client
 
 ## Engineering foundation
 
-- [System monitoring](https://github.com/mrdamos69/MonitoringSystem): C++, Qt and system metrics.
-- [3D wireframe viewer](https://github.com/mrdamos69/3D_Viewer_v2.0): C++, Qt and OpenGL.
-- [Container implementations](https://github.com/mrdamos69/Containers): STL-style data structures and tests.
+Earlier projects that show the foundations behind my application work:
+
+| Work | Engineering focus |
+|---|---|
+| [3D wireframe viewer](https://github.com/mrdamos69/3D_Viewer_v2.0) | C++, Qt, OpenGL, parsing and geometric transformations; screenshots and a recording |
+| [Container implementations](https://github.com/mrdamos69/Containers) | Data structures, ownership, iterators and GoogleTest comparisons |
+| [System monitoring](https://github.com/mrdamos69/MonitoringSystem) | Metric collection, worker threads and a Qt interface |
+| [PostgreSQL exercises](https://github.com/mrdamos69/sql_bootcamp) | SQL queries and database functions |
+
+<details>
+<summary>More learning projects</summary>
+
+- [Expression calculator](https://github.com/mrdamos69/SmartCalc_v2.0): Qt interface, expression evaluation and graphing.
+- [Photo-editing sample](https://github.com/mrdamos69/Eximg): Flutter and image-editing package integration.
+- [Task-list prototype](https://github.com/mrdamos69/todolist): Flutter, Firebase Authentication and Firestore.
+- [Unix text utilities](https://github.com/mrdamos69/SimpleBashUtils): C implementations of cat and grep.
+- [Container and web-server exercises](https://github.com/mrdamos69/Docker): Docker and server configuration.
+
+</details>
 
 ## Contact
 
